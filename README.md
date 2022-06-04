@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristhianpoveda
-- 👀 I’m interested in robotics, autonomous navigation, artificial intelligence.
+- 👀 I’m interested in robotics, autonomous navigation and artificial intelligence.
 - 🌱 I’m currently learning robotics development using Duckietown.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: cristhianpoveda12@gmail.com
